@@ -1,0 +1,7 @@
+{"id": "V11", "loan": "L1", "right_in_object": "right", "top_in_object": "top", "scope": ["paper", "mount"]}
+{"id": "V12", "loan": "L1", "right_in_object": "left", "top_in_object": "top", "scope": ["paper", "mount"]}
+{"id": "V13", "loan": "L1", "right_in_object": null, "top_in_object": "top", "scope": ["paper"]}
+{"id": "V14", "loan": "L1", "right_in_object": "top", "top_in_object": "left", "scope": ["paper"]}
+{"id": "V21", "loan": "L2", "right_in_object": "right", "top_in_object": "top", "scope": ["cloth", "mount"]}
+{"id": "V31", "loan": "L3", "right_in_object": "left", "top_in_object": "bottom", "scope": ["paper"]}
+{"id": "V41", "loan": "L4", "right_in_object": "right", "top_in_object": "top", "scope": ["paper", "crate"]}

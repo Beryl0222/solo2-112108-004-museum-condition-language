@@ -1,0 +1,34 @@
+{
+  "loans": [
+    "id",
+    "label",
+    "layers",
+    "case",
+    "owner"
+  ],
+  "views": [
+    "id",
+    "loan",
+    "right_in_object",
+    "top_in_object",
+    "scope"
+  ],
+  "reports": [
+    "id",
+    "loan",
+    "phase",
+    "author",
+    "lang",
+    "revision",
+    "references",
+    "text"
+  ],
+  "handovers": [
+    "id",
+    "signer",
+    "scope",
+    "snapshot",
+    "action",
+    "at"
+  ]
+}

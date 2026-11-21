@@ -1,0 +1,4 @@
+{"id": "s1", "signer": "北馆", "scope": "record", "snapshot": ["I1", "I2"], "action": "入场登记", "at": "2026-10-02T14:00:00+08:00"}
+{"id": "s2", "signer": "东馆", "scope": "case", "snapshot": ["C2", "L3"], "action": "已签封箱", "at": "2026-11-24T15:00:00+08:00"}
+{"id": "p1", "signer": "借展库房", "scope": "case", "snapshot": ["C1", "L1", "L2"], "action": "拟合箱", "at": "2026-11-24T15:05:00+08:00"}
+{"id": "p2", "signer": "借展库房", "scope": "case", "snapshot": ["C3", "L4", "L1"], "action": "拟改组", "at": "2026-11-24T17:00:00+08:00"}

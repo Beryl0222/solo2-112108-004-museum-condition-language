@@ -1,0 +1,4 @@
+{"id": "L1", "label": "莲窗", "layers": ["paper", "mount", "crate"], "case": "C1", "owner": "北馆"}
+{"id": "L2", "label": "青壁", "layers": ["cloth", "mount", "crate"], "case": "C1", "owner": "北馆"}
+{"id": "L3", "label": "远湾", "layers": ["paper", "mount", "crate"], "case": "C2", "owner": "东馆"}
+{"id": "L4", "label": "小灯", "layers": ["paper", "crate"], "case": "C3", "owner": "东馆"}

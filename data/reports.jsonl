@@ -1,0 +1,9 @@
+{"id": "I1", "loan": "L1", "phase": "in", "author": "借出登记", "lang": "zh", "revision": 1, "references": ["V11"], "text": "本体左上外沿旧浅折。装框边右下阴影，非起翘。"}
+{"id": "I2", "loan": "L2", "phase": "in", "author": "借出登记", "lang": "en", "revision": 1, "references": ["V21"], "text": "Two minor lifts near the rim of the textile, position not certain."}
+{"id": "M1", "loan": "L1", "phase": "mid", "author": "保护组", "lang": "en", "revision": 1, "references": ["V14"], "text": "Faint crease remains on upper edge in object view; visible along the lower edge in rotated photo."}
+{"id": "M2", "loan": "L2", "phase": "mid", "author": "保护组", "lang": "zh", "revision": 1, "references": ["V21"], "text": "织物左边最上角有一处浅翘，框右边看着像灰斑，不能排除反光。"}
+{"id": "O1", "loan": "L1", "phase": "out", "author": "退场登记", "lang": "en", "revision": 1, "references": ["V12", "V13"], "text": "Old faint fold at photo right. A second line looks raised in V13; could be a mount shadow."}
+{"id": "O2", "loan": "L1", "phase": "out", "author": "保护组", "lang": "zh", "revision": 2, "references": ["V12"], "text": "翻看了背面，右侧线来自装裱投影，左上旧折未变。"}
+{"id": "O3", "loan": "L2", "phase": "out", "author": "退场登记", "lang": "zh", "revision": 1, "references": ["V21"], "text": "织物左上和右下各有一处翘起，左上那处较早见过。"}
+{"id": "O4", "loan": "L3", "phase": "out", "author": "退场登记", "lang": "en", "revision": 1, "references": ["V31"], "text": "No new marks discernible on recto."}
+{"id": "O5", "loan": "L4", "phase": "out", "author": "退场登记", "lang": "en", "revision": 1, "references": ["V41"], "text": "Case scratch does not reach artwork."}
